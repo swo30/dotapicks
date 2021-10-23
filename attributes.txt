@@ -1,0 +1,13 @@
+escape
+purge
+disables
+tank
+magical
+physical
+burst
+teamfight
+aoe
+waveclear
+summons
+carry/support
+attribute
