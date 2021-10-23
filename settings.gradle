@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "dotapicks2"
+rootProject.name = "dotapicks"

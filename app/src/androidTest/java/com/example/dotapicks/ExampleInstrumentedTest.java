@@ -1,4 +1,4 @@
-package com.example.dotapicks2;
+package com.example.dotapicks;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.dotapicks2", appContext.getPackageName());
+        assertEquals("com.example.dotapicks", appContext.getPackageName());
     }
 }

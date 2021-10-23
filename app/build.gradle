@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.example.dotapicks2"
+        applicationId "com.example.dotapicks"
         minSdkVersion 16
         targetSdkVersion 30
         versionCode 1

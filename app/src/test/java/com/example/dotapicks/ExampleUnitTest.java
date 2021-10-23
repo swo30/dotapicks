@@ -1,4 +1,4 @@
-package com.example.dotapicks2;
+package com.example.dotapicks;
 
 import org.junit.Test;
 
