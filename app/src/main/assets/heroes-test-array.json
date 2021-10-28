@@ -1,0 +1,124 @@
+{
+  "Heroes": [
+    {
+      "name": "Abbadon",
+      "escape": [
+        0.1,
+        0.11
+      ],
+      "purge": [
+        0.1,
+        0.11
+      ],
+      "disables": [
+        0.1,
+        0.11
+      ],
+      "tank": [
+        0.1,
+        0.11
+      ],
+      "magical": [
+        0.1,
+        0.11
+      ],
+      "physical": [
+        0.1,
+        0.11
+      ],
+      "burst": [
+        0.1,
+        0.11
+      ],
+      "teamfight": [
+        0.1,
+        0.11
+      ],
+      "aoe": [
+        0.1,
+        0.11
+      ],
+      "waveclear": [
+        0.1,
+        0.11
+      ],
+      "summons": [
+        0.1,
+        0.11
+      ],
+      "carry": [
+        0.1,
+        0.11
+      ],
+      "primaryAttribute": [
+        0.1,
+        0.11
+      ],
+      "counters": [
+        "none",
+        "for",
+        "now"
+      ]
+    },
+    {
+      "name": "Alchemist",
+      "escape": [
+        0.2,
+        0.22
+      ],
+      "purge": [
+        0.2,
+        0.22
+      ],
+      "disables": [
+        0.2,
+        0.22
+      ],
+      "tank": [
+        0.2,
+        0.22
+      ],
+      "magical": [
+        0.2,
+        0.22
+      ],
+      "physical": [
+        0.2,
+        0.22
+      ],
+      "burst": [
+        0.2,
+        0.22
+      ],
+      "teamfight": [
+        0.2,
+        0.22
+      ],
+      "aoe": [
+        0.2,
+        0.22
+      ],
+      "waveclear": [
+        0.2,
+        0.22
+      ],
+      "summons": [
+        0.2,
+        0.22
+      ],
+      "carry": [
+        0.2,
+        0.22
+      ],
+      "primaryAttribute": [
+        0.2,
+        0.22
+      ],
+      "counters": [
+        "none",
+        "for",
+        "now"
+      ]
+    }
+  ]
+}

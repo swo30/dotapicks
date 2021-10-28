@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dotapicks.iml" filepath="$PROJECT_DIR$/.idea/modules/dotapicks.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/dotapicks.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/dotapicks.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-758320647/Programming.dotapicks.iml" filepath="$PROJECT_DIR$/.idea/modules/-758320647/Programming.dotapicks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-558357237/Programming.dotapicks.app.iml" filepath="$PROJECT_DIR$/.idea/modules/-558357237/Programming.dotapicks.app.iml" />
     </modules>
   </component>
 </project>

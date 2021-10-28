@@ -1,9 +1,9 @@
 package com.example.dotapicks;
-
 import java.util.ArrayList;
+import java.util.Arrays;
 
 public class Hero {
-    public ArrayList<Attributes> attributesList;
+//    public ArrayList<Attributes> attributesList;
         // Attribute0 = own stat
         // Attribute1 = cucked by that stat
         String name;
@@ -36,9 +36,10 @@ public class Hero {
             double[] waveclear,
             double[] summons,
             double[] carry,
-            double[] primaryAttribute,
-            String[] counters
+            double[] primaryAttribute
+//            String[] counters
         ){
+            this.name = name;
             this.escape = escape;
             this.purge = purge;
             this.disables = disables;
@@ -78,5 +79,26 @@ public class Hero {
         attributesArray[11] = this.carry;
         attributesArray[12] = this.primaryAttribute;
         return attributesArray;
+    }
+
+    @Override
+    public String toString() {
+        return "Hero{" +
+                "name='" + name + '\'' +
+                ", escape=" + Arrays.toString(escape) +
+                ", purge=" + Arrays.toString(purge) +
+                ", disables=" + Arrays.toString(disables) +
+                ", tank=" + Arrays.toString(tank) +
+                ", magical=" + Arrays.toString(magical) +
+                ", physical=" + Arrays.toString(physical) +
+                ", burst=" + Arrays.toString(burst) +
+                ", teamfight=" + Arrays.toString(teamfight) +
+                ", aoe=" + Arrays.toString(aoe) +
+                ", waveclear=" + Arrays.toString(waveclear) +
+                ", summons=" + Arrays.toString(summons) +
+                ", carry=" + Arrays.toString(carry) +
+                ", primaryAttribute=" + Arrays.toString(primaryAttribute) +
+                ", counters=" + Arrays.toString(counters) +
+                '}';
     }
 }
