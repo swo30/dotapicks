@@ -48,7 +48,6 @@ public class MainActivity extends AppCompatActivity {
         JSONObject obj = new JSONObject(json);
         heroesArray = obj.getJSONArray("Heroes");
 //        JSONArray heroesJSON = loadJSONFromAsset();
-
         return heroesArray;
     }
 
